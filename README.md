@@ -1,6 +1,6 @@
-# Hardware-Project_Object-Detection-Line-Following-Smart-Toy-Car
+## Object Detection Line Following Smart Toy Car
 
-##Project description
+### Project description
 
 Mainly this car will be able to follow a black line drawn by the child in a white paper or any white 
 colour surface, with the use of two IR sensors. To make the car move, go forward, backward, left 
@@ -14,9 +14,9 @@ removed car will start moving along the line again.
 Aside from the automatic line following and object detection function, this car will also be able to 
 use as a remotely controlled car, by the mobile phone with the use of a Bluetooth module.
 
-##Other
+### Other
 
-Programming language:C,
-IDE:Atmel studio
-Simulation:Proteus
-PCB design:Kicad
+- Programming language: C,
+- IDE: Atmel studio
+- Simulation: Proteus
+- PCB design: Kicad
